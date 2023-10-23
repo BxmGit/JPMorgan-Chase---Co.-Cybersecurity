@@ -11,7 +11,7 @@ Welcome to the repository for my JPMCC Virtual Cybersecurity Internship! During 
 ## Mobile Money Transaction Analysis
 In this project, I delved into the world of financial transactions, analyzing a dataset of mobile money transactions provided by a financial services provider. My main objectives were to explore the dataset, identify patterns, especially in relation to fraud, and visualize the data for better understanding and presentation.
 
-- **[Project Details](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Fraud%20Detection%20Visulisation](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Fraud%20Detection%20Visulisation)))**
+- **[Project Details](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Fraud%20Detection%20Visulisation)**
 - **Skills Developed**: Exploratory Data Analysis, Data Visualization, Open Source Tools, Presentation
 
 ## Spam or Ham? Building an Email Classifier
