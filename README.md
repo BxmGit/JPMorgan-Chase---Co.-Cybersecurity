@@ -23,7 +23,7 @@ My task in this project was to develop a machine learning model capable of class
 ## Design and Develop a System to Tighten Access to Sensitive Information
 In this module, I designed a system to manage user roles efficiently, ensuring that users have only the minimal set of roles required, thereby adhering to the principle of least privilege. This project was crucial for understanding access control systems and their significance in securing sensitive information.
 
-- **[Project Details](./AccessControlSystem.md)**
+- **[Project Details](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Role%20Limitation)**
 - **Skills Developed**: Access Control, Application Security Hygiene, Data Structures, Web Application Development
 
 ## Skills Acquired
