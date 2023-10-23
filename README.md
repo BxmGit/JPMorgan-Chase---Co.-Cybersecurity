@@ -17,7 +17,7 @@ In this project, I delved into the world of financial transactions, analyzing a 
 ## Spam or Ham? Building an Email Classifier
 My task in this project was to develop a machine learning model capable of classifying emails as either spam or ham (non-spam). This project was an insightful journey into the intricacies of email security and machine learning, providing me with a hands-on experience in data preprocessing, model training, and performance evaluation.
 
-- **[Project Details](./EmailClassifier.md)**
+- **[Project Details](https://github.com/BxmGit/JPMorgan-Chase---Co.-Cybersecurity/tree/master/Ham%20or%20Spam%20-%20Email%20Classifier)**
 - **Skills Developed**: Text-based ML Models, Data Preprocessing, Model Evaluation, Email Security Fundamentals
 
 ## Design and Develop a System to Tighten Access to Sensitive Information
